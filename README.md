@@ -2,18 +2,18 @@
 
 # Project Name
 
-> Description the project.
+> Hello Microverse
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Major languages(HTML & CSS)
+- Frameworks(NONE)
+- Technologies used(Git&Github)
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+https://github.com/Progress2002/Hello-Microvers/pull/1
 
 
 ## Getting Started
@@ -42,15 +42,11 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Progress2002)
+- Twitter: [@twitterhandle](https://twitter.com/Progress20)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/ProgressEze)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
